@@ -1,1 +1,2 @@
 # Event-Search-website-with-Ticket-Recommandation
+This is an easy-to-use online event search and recommendation application which allows users search the events nearby, check the event specifications, set as its favorite event and get recommendation with the events it may enjoy based on its current geolocation and personal preference. The user can also use the website link provided to have an easy access to the official website of certain event for subsequent ticket ordering. 
